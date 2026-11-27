@@ -171,3 +171,15 @@ footer {
     font-size: 1.8rem;
   }
 }
+
+/* ===== Daftar harga ===== */
+.harga {
+  text-align: center;
+}
+
+.nominal {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #6c4cf1;
+  margin: 8px 0;
+}
